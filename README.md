@@ -16,10 +16,6 @@
 
 - ⚡ Fun fact **I'm very curious and I'm always trying to explore new things**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <div>
   <a href="https://github.com/eurafavaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurafavaz&layout=compact&langs_count=7&theme=dracula"/>
