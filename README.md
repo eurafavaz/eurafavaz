@@ -2,6 +2,24 @@
 
 ### Welcome to my Github profile!
 
+- 🔭 I’m currently working on [my own To Do List project](https://github.com/eurafavaz/to-do-list-project-one)
+
+- 🌱 I’m currently learning **about React, Bootstrap, routes, Hooks and useState**
+
+- 🤝 I’m looking for help with [backend routes and API communication](https://github.com/eurafavaz/to-do-list-project-one)
+
+- 👨‍💻 All of my projects are available at [https://linktr.ee/eurafavaz/](https://linktr.ee/eurafavaz/)
+
+- 📫 How to reach me **contact@rafavaz.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/eurafavaz/](https://www.linkedin.com/in/eurafavaz/)
+
+- ⚡ Fun fact **I'm very curious and I'm always trying to explore new things**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 <div>
   <a href="https://github.com/eurafavaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurafavaz&layout=compact&langs_count=7&theme=dracula"/>
