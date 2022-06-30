@@ -1,4 +1,4 @@
-### Hey, my name is Rafael Vaz. Great to see you here 👋
+### Hey 👋, my name is Rafael Vaz. Great to see you here!
 
 ### Welcome to my Github profile!
 
